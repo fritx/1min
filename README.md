@@ -42,44 +42,44 @@ $ NODE_ENV=dev node .
 
 ### 手机屏幕
 
-<img width="150" src="https://github.com/fritx/wxchangba/blob/dev/pic/xs-songlist-0.png">&nbsp;&nbsp;&nbsp;
-<img width="150" src="https://github.com/fritx/wxchangba/blob/dev/pic/xs-songlist-1.png">&nbsp;&nbsp;&nbsp;
-<img width="150" src="https://github.com/fritx/wxchangba/blob/dev/pic/xs-song-0.png">&nbsp;&nbsp;&nbsp;
-<img width="150" src="https://github.com/fritx/wxchangba/blob/dev/pic/xs-song-1.png">
+<img width="150" src="pic/xs-songlist-0.png">&nbsp;&nbsp;&nbsp;
+<img width="150" src="pic/xs-songlist-1.png">&nbsp;&nbsp;&nbsp;
+<img width="150" src="pic/xs-song-0.png">&nbsp;&nbsp;&nbsp;
+<img width="150" src="pic/xs-song-1.png">
 
 ### 平板屏幕
 
-<img width="200" src="https://github.com/fritx/wxchangba/blob/dev/pic/md-songlist-0.png">&nbsp;&nbsp;&nbsp;
-<img width="200" src="https://github.com/fritx/wxchangba/blob/dev/pic/md-songlist-1.png">&nbsp;&nbsp;&nbsp;
-<img width="200" src="https://github.com/fritx/wxchangba/blob/dev/pic/md-song-0.png">
+<img width="200" src="pic/md-songlist-0.png">&nbsp;&nbsp;&nbsp;
+<img width="200" src="pic/md-songlist-1.png">&nbsp;&nbsp;&nbsp;
+<img width="200" src="pic/md-song-0.png">
 
 ### 歌单播放 / 微信内网页录音
 
-<img width="150" src="https://github.com/fritx/wxchangba/blob/dev/pic/xs-playlist-0.png">&nbsp;&nbsp;&nbsp;
-<img width="150" src="https://github.com/fritx/wxchangba/blob/dev/pic/xs-playlist-1.png">&nbsp;&nbsp;&nbsp;
-<img width="150" src="https://github.com/fritx/wxchangba/blob/dev/pic/xs-wxrecord-0.png">&nbsp;&nbsp;&nbsp;
-<img width="150" src="https://github.com/fritx/wxchangba/blob/dev/pic/xs-wxrecord-1.png">
+<img width="150" src="pic/xs-playlist-0.png">&nbsp;&nbsp;&nbsp;
+<img width="150" src="pic/xs-playlist-1.png">&nbsp;&nbsp;&nbsp;
+<img width="150" src="pic/xs-wxrecord-0.png">&nbsp;&nbsp;&nbsp;
+<img width="150" src="pic/xs-wxrecord-1.png">
 
 ### 管理平台
 
-<img width="200" src="https://github.com/fritx/wxchangba/blob/dev/pic/admin-login.png">&nbsp;&nbsp;&nbsp;
-<img width="200" src="https://github.com/fritx/wxchangba/blob/dev/pic/admin-songlist-0.png">&nbsp;&nbsp;&nbsp;
-<img width="200" src="https://github.com/fritx/wxchangba/blob/dev/pic/admin-songlist-2.png">
+<img width="200" src="pic/admin-login.png">&nbsp;&nbsp;&nbsp;
+<img width="200" src="pic/admin-songlist-0.png">&nbsp;&nbsp;&nbsp;
+<img width="200" src="pic/admin-songlist-2.png">
 
 ## 设计图
 
 ### 用例图
 
-<img width="440" src="https://github.com/fritx/wxchangba/blob/dev/pic/用例图-详细.png">
+<img width="440" src="pic/用例图-详细.png">
 
 ### 时序图-微信公众号语音
 
-<img width="500" src="https://github.com/fritx/wxchangba/blob/dev/pic/时序图-公众号语音.png">
+<img width="500" src="pic/时序图-公众号语音.png">
 
 ### 时序图-微信内网页录音
 
-<img width="560" src="https://github.com/fritx/wxchangba/blob/dev/pic/时序图-网页录音-详细.png">
+<img width="560" src="pic/时序图-网页录音-详细.png">
 
 ### 时序图-微信网页接口授权
 
-<img width="560" src="https://github.com/fritx/wxchangba/blob/dev/pic/时序图-微信网页接口授权.png">
+<img width="560" src="pic/时序图-微信网页接口授权.png">
